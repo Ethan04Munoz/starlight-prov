@@ -1,3 +1,8 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+}
+
 body{
     background-image: url("../img/starlight2.png");
     background-position: inherit;
@@ -15,10 +20,16 @@ body{
 /* Burbuja con un triangulo isosceles
 ------------------------------------------ */
 .triangle-border.left {
-    /*Aqui se modifica la posicion de la maldita burbuja aaaaaaaaaa
-
-
-
+    /*
+    
+    Aqui 
+    se 
+    modifica 
+    la 
+    posicion 
+    de 
+    la 
+    maldita burbuja aaaaaaaaaa
 
     */
     margin-top: 30%;
